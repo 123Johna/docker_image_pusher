@@ -1,1 +1,2 @@
 portainer/kubectl-shell:latest
+portainer/kubectl-shell:latest
