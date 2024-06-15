@@ -1,2 +1,3 @@
 portainer/kubectl-shell:latest
 docker.io/flannel/flannel:v0.25.4
+gngpp/xunlei:latest
