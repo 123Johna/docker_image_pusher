@@ -1,3 +1,2 @@
 portainer/kubectl-shell:latest
-docker.io/flannel/flannel:v0.25.4
-gngpp/xunlei:latest
+jenkins/inbound-agent:3148.v532a_7e715ee3-1
