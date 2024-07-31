@@ -1,3 +1,5 @@
 portainer/kubectl-shell:latest
 jenkins/inbound-agent:3148.v532a_7e715ee3-1
- otel/opentelemetry-collector:0.105.0
+node:16.17.0
+node:16.17.0-slim
+
