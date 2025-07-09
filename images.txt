@@ -1,4 +1,3 @@
 portainer/kubectl-shell:latest
 jenkins/inbound-agent:3148.v532a_7e715ee3-1
-provectuslabs/kafka-ui:latest
-grafana/grafana:9.3.14
+rocketmq-dashboard:v0.0.3
