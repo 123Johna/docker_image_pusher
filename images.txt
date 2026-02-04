@@ -1,3 +1,6 @@
 portainer/kubectl-shell:latest
 jenkins/inbound-agent:3148.v532a_7e715ee3-1
-rocketmq-dashboard:v0.0.3
+mysql:5.7
+nginx:1.23.4  
+redis:6.2.12
+campus/campus-imaotai:1.0.13
