@@ -1,7 +1,4 @@
 portainer/kubectl-shell:latest
 jenkins/inbound-agent:3148.v532a_7e715ee3-1
-chaiyd/yearning:latest
 question-bank-dedup-search-api:latest
-question-bank-dedup-search-dashboard:latest
-opensearchproject/opensearch:3.7.0
-opensearchproject/opensearch-dashboards:3.7.0
+
