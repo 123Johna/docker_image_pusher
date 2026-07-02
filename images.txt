@@ -1,4 +1,4 @@
 portainer/kubectl-shell:latest
 jenkins/inbound-agent:3148.v532a_7e715ee3-1
-container-registry.oracle.com/java/jdk:17-oraclelinux8
+ubuntu/jdk:17-24.04
 
